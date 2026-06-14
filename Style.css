@@ -111,7 +111,15 @@ border-radius:10px;
 #contact{
 text-align:center;
 }
+.contact-box a{
+    color:#00bfff;
+    text-decoration:none;
+    font-weight:600;
+}
 
+.contact-box a:hover{
+    text-decoration:underline;
+}
 #contact a{
 color:#60a5fa;
 }
